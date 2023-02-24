@@ -16,7 +16,7 @@ const handleAdd = () => {
 
 const handleMinus = () => {
   count = count - 1;
-  updateText(); f
+  updateText();
 }
 
 plus.addEventListener("click", handleAdd)
